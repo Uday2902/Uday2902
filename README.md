@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Uday Patel</h1>
 <h3 align="center">Aspiring full-stack developer</h3>
-<img alt="Coding" width="440" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47la0epd8hv8arpmyqramibcvzd5e06y6yo5rlx9mb&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img alt="Coding" width="480" height="360" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47la0epd8hv8arpmyqramibcvzd5e06y6yo5rlx9mb&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday2902&label=Profile%20views&color=0e75b6&style=flat" alt="uday2902" /> </p>
 
 - 🌱 I’m currently learning **React**
 
-<h3 align="left">Connect with me:</h3>
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **udaykpatel2004@gmail.com**
+
 <p align="left">
 </p>
 
