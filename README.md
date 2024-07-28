@@ -22,7 +22,7 @@
 </div>
 </p> 
 
- <summary><b>⚙️GitHub Analytics</b></summary>
+ <h2 align="center" >Github Stats</h2>
  <a href="https://github.com/Uday2902">
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday2902&theme=github_dark" alt="Uday Patel" />
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uday2902&theme=github_dark" alt="Uday Patel" />
